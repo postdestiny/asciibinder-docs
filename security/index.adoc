@@ -1,0 +1,11 @@
+= {product-title} {product-version} Documentation
+{product-author}
+{product-version}
+:data-uri:
+:icons:
+
+== Security
+=== Docker
+Docker security is a big subject, which will not be covered here, but there are a few topics which are relevant
+==== Users
+In order to prevent containers being run with root privileges and hence allowing applications vectors of attack, the platform prevents this from happening
