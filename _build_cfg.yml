@@ -27,5 +27,6 @@ Topics:
   - Name: Welcome
     File: index
 Dir: security
+Topics:
   - Name: Security
     File: index
