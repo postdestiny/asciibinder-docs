@@ -21,14 +21,16 @@
 # The ordering of the records in this document determines the ordering of the
 # topic groups and topics on the main page.
 ---
-Name: AsciiBinder Doc Project
+Name: OpenShift Doc Project
 Dir: welcome
 Topics:
   - Name: Welcome
     File: index
 Dir: security
+Topics:
   - Name: Security
     File: index
 Dir: presentation
+Topics:
   - Name: Presentation
     File: index
