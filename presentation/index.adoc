@@ -1,0 +1,46 @@
+= {product-title} {product-version} Documentation
+{product-author}
+{product-version}
+:data-uri:
+:icons:
+
+== The app
+
+* I have an app and I want to deploy it somewhere
+
+So what do I need?
+* My application code
+* A runtime environment
+* Some instructions how to put it together
+
+So I will use a Dockerfile to describe the runtime environment and pull down my code
+Pop it into a git repository
+and create a 'new-app'
+
+This has created me a bunch of things
+
+A Build configuration - which is the details of how to put everything together
+A Deployment configuraion - which is the details of how to run the application container(s)
+
+== Prepare the container
+
+So, based on the build configuration we 'build' the container or the personal application hosting environment
+
+This creates 'image'
+
+== Deploy
+
+We take that image and run it - based on the information in the deployment configuration
+
+== OK, but how do I get to it to test?
+
+Most apps use HTTP so how do I connect to it?
+
+For this we need a 
+
+
+
+* So I create a new app
+
+
+
