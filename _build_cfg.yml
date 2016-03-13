@@ -26,10 +26,12 @@ Dir: welcome
 Topics:
   - Name: Welcome
     File: index
+Name: OpenShift Security
 Dir: security
 Topics:
   - Name: Security
     File: index
+Name: OpenShift Presentation
 Dir: presentation
 Topics:
   - Name: Presentation
